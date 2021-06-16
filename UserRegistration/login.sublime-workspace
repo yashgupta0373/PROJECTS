@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"border-",
+				"border-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"trans",
+				"translateY()\ttransform"
+			],
+			[
+				"btn",
+				"btn-outline-secondary"
+			],
+			[
+				"col-md",
+				"col-md-3"
+			],
+			[
+				"col-",
+				"col-lg-6"
+			],
+			[
+				"ca",
+				"carousel"
+			],
+			[
+				"na",
+				"navbarResponsive"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"nav",
+				"navbar-toggler"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"fnt",
+				"font-family\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"animation",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"animat",
+				"animation-duration\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Programming/PROJECTS/UserRegistration/login.php",
+		"/E/Programming/PROJECTS/BOOTSTRAPfromYT/style.css",
+		"/E/Programming/PROJECTS/BOOTSTRAPfromYT/index.html",
+		"/E/Programming/PROJECTS/RK_NEW/style.css",
+		"/E/Programming/PROJECTS/RK_NEW/index.html",
+		"/E/Programming/PROJECTS/RK_NEW/burger.js",
+		"/E/Programming/PROJECTS/RK_NEW/style_burger.css",
+		"/E/Programming/Web Additionals/hamburger-animation/index.html",
+		"/E/Programming/Web Additionals/hamburger-animation/burger.js",
+		"/E/Programming/Web Additionals/hamburger-animation/style_burger.css",
+		"/E/Programming/bootstrap-4.5.0-dist/css/bootstrap.min.css.map",
+		"/E/Programming/bootstrap-4.5.0-dist/css/bootstrap.min.css",
+		"/E/Programming/PROJECTS/BOOTSTRAPfromYT/Bootstrap 4 Site Files/Bootstrap 4 Site Files/index.html",
+		"/E/Programming/PROJECTS/BOOTSTRAPfromYT/Bootstrap 4 Site Files/Bootstrap 4 Site Files/style.css",
+		"/E/Programming/PROJECTS/RKinterior/style.css",
+		"/E/Programming/PROJECTS/RKinterior/index.html",
+		"/E/Programming/PROJECTS/RKinterior/imgs/logo.jpg",
+		"/E/Programming/PROJECTS/SurveyForm/style.css",
+		"/E/Programming/PROJECTS/SurveyForm/index.html",
+		"/E/Programming/PROJECTS/TributePage/style.css",
+		"/E/Programming/PROJECTS/TributePage/index.html",
+		"/E/Programming/HTML, CSS and JavaScript by YouAccel/Course-Files/Section 2 - CSS Section/Lecture 15 - Text on Top of Images/imagetext.html",
+		"/E/Programming/HTML, CSS and JavaScript by YouAccel/Course-Files/Section 2 - CSS Section/Lecture 25 - Styling Links/csslinks.html",
+		"/C/Users/Yash Gupta/Documents/GitHub/Coursera-learn/site/css/styles.css",
+		"/C/Users/Yash Gupta/Documents/GitHub/Coursera-learn/site/index.html",
+		"/C/Users/Yash Gupta/Documents/GitHub/Coursera-learn/README.md",
+		"/C/Users/Yash Gupta/Coursera-learn/site/index.html",
+		"/C/Users/Yash Gupta/Coursera-learn/index.html",
+		"/E/Call of Duty- Modern Warfare 3/iw5mp_server.exe",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/Section 1 - HTML Development/Lecture 25 - Form Tags/form.html",
+		"/E/Programming/CSS Animations/practice.html",
+		"/E/Programming/CSS Animations/trial.HTML",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/index.html",
+		"/C/Users/Yash Gupta/Desktop/Angular_Tutorial/first-app/angular.json",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/Section 2 - CSS Section/CSS Animations/Anime.css",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/Section 2 - CSS Section/CSS Animations/Anime.html",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/Section 2 - CSS Section/Lecture 3 - Types of CSS Rules/cssrules.html",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/Section 2 - CSS Section/Lecture 27 - CSS Project l Introduction/css-project.html",
+		"/E/Programming/HTML, CSS and JavaScript/Course-Files/Section 1 - HTML Development/PROJECT/Project.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "login.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
